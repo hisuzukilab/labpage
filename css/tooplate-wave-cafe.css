@@ -243,6 +243,15 @@ display : none;
 }
 
 .tm-footer-link { color: white; }
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 10%;
+   color: white;
+   text-align: center;
+}
 .tm-tab-content { animation: fadeEffect 1s; }
 .tm-page-content { animation: fadeEffect 1s; }
 
